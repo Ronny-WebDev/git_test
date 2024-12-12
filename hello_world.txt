@@ -1,3 +1,5 @@
 "Hello World"
 
 "VS commit message test"
+
+"Git via terminal test"
